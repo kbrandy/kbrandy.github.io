@@ -184,8 +184,15 @@ var plants = [{
   name: 'Rosary Ivy',
   light: 'low light',
   size: 'small',
-  care: 'daily',
+  care: 'weekly or less',
   url:'https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=myindoorplant-20&marketplace=amazon&region=US&placement=B01MFFV15Q&asins=B01MFFV15Q&linkId=8869968a2ff8a752cec2774504a7dbe1&show_border=true&link_opens_in_new_window=true'
+},
+{
+  name: 'Succulents',
+  light: 'low light',
+  size: 'small',
+  care: 'weekly or less',
+  url: 'https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=myindoorplant-20&marketplace=amazon&region=US&placement=B06XRBJDTN&asins=B06XRBJDTN&linkId=e974de330dc4b24e89ce367c2d7c30e9&show_border=true&link_opens_in_new_window=true'
 }
 ];
 //inputs for survey
